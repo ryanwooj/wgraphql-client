@@ -15,4 +15,4 @@ Can be seen at (https://wgraphql-client.devrwoo.now.sh)
 
 
 ## image
-![alt text](https://github.com/ryanwooj/wgraphql-client/public/wgraphql-image.png)
+![alt text](https://github.com/ryanwooj/wgraphql-client/blob/master/public/wgraphql-image.png)
